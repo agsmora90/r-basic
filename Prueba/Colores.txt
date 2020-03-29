@@ -1,0 +1,3 @@
+Plomo: B3B3B3
+Gris: 374649
+Rojo: C80000
